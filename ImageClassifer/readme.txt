@@ -1,1 +1,1 @@
-this is image classifier using CNN.
+This is my second submission for the Extion internship programme.
